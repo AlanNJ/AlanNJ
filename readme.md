@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Alan Neupane</h1>
 <h3 align="center">A Passionate and Innovative Tech Enthusiast</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=AlanNJ&label=Profile%20views&color=0e75b6&style=flat" alt="AlanNJ" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=AlanNJ&label=Profile%20views&color=0e75b6&style=flat" alt="AlanNJ" /> </p> -->
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AlanNJ&theme=default" alt="AlanNJ" /></a> </p>
+
 
 - 💬 Ask me about **Javascript,Typescript,React.**
 - 📫 How to reach me **alannpn75@gmail.com**
@@ -61,12 +61,4 @@
 
 <p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=AlanNJ&theme=" alt="AlanNJ" /></p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
-<div align="center">
-<a href="https://github.com/AlanNJ">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AlanNJ&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AlanNJ&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AlanNJ&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AlanNJ&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AlanNJ&theme=2077" height="180em" />
-</div>
+
